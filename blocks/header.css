@@ -10,6 +10,7 @@
   background-position: center;
   background-repeat: no-repeat;
   background-image: url(../images/background_header.svg);
+  position: relative;
 }
 
 .header__title {
@@ -45,9 +46,9 @@
 
 .header__image {
   position: absolute;
-  top: 124px;
   right: 5px;
   max-width: 568px;
+  top: 124px;
 }
 
 .header__footer {

@@ -1,5 +1,5 @@
 .footer {
-  padding: 60px 100px 60px 80px;
+  padding: 60px 80px;
   box-sizing: border-box;
   background: linear-gradient(180deg, #0a2850 0%, #071931 100%);
   margin: 0;
@@ -45,6 +45,10 @@
   padding: 0;
   display: flex;
   gap: 16px;
+}
+
+.footer__list-item:last-child {
+  margin-bottom: 0;
 }
 
 .footer__social-icon {
