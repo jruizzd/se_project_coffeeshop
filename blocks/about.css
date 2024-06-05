@@ -33,6 +33,10 @@
   margin: 0 0 20px;
 }
 
+.about__paragraph:last-of-type {
+  margin: 0;
+}
+
 .about__circle {
   background-color: #2f80ed;
   border-radius: 50%;

@@ -11,6 +11,7 @@
   background-repeat: no-repeat;
   background-image: url(../images/background_header.svg);
   position: relative;
+  box-sizing: border-box;
 }
 
 .header__title {
@@ -47,7 +48,8 @@
 .header__image {
   position: absolute;
   right: 5px;
-  max-width: 568px;
+  width: 646px;
+  height: 568px;
   top: 124px;
 }
 
@@ -63,6 +65,6 @@
   font-weight: 500;
   font-size: 16px;
   line-height: 20px;
-  color: #8383b3;
+  color: #838383;
   margin: 0;
 }
