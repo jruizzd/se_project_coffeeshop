@@ -3,7 +3,6 @@
   display: flex;
   justify-content: space-between;
   color: #fff;
-  padding: 119px 80px 173px;
   position: relative;
   overflow: hidden;
 }
@@ -17,6 +16,7 @@
   z-index: 1;
   margin: 0;
   max-width: 251px;
+  padding: 100px 80px;
 }
 
 .about__content {
@@ -27,6 +27,7 @@
   font-weight: normal;
   font-size: 20px;
   line-height: 30px;
+  padding: 119px 80px 173px;
 }
 
 .about__paragraph {
