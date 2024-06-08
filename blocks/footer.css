@@ -42,8 +42,6 @@
   line-height: 20px;
   margin: 0 0 16px;
   padding: 0;
-  display: flex;
-  gap: 16px;
 }
 
 .footer__list-item:last-child {
@@ -57,11 +55,13 @@
 
 .footer__social-link {
   text-decoration: none;
-  color: #c1c1c1;
+  color: white;
+  display: flex;
+  gap: 10px;
 }
 
 .footer__social-link:hover {
-  color: #cccccc;
+  color: #c1c1c1;
   transition: color 0.2s ease-in-out;
 }
 
