@@ -8,7 +8,7 @@
 }
 
 .about__title {
-  font-family: "Inter", Arial, Helvetica;
+  font-family: "Inter", Arial, sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 44px;
@@ -24,7 +24,7 @@
 .about__content {
   z-index: 1;
   max-width: 660px;
-  font-family: "Noto Serif", Arial, Helvetica;
+  font-family: "Noto Serif", Arial, sans-serif;
   font-style: normal;
   font-weight: normal;
   font-size: 20px;
